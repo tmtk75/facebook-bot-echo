@@ -1,0 +1,4 @@
+.*.swp
+terraform.*
+credentials
+node_modules

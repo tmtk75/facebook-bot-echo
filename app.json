@@ -1,0 +1,14 @@
+{
+  "name": "facebook-bot-echo",
+  "description": "Facebook bot echo",
+  "keywords": [
+    "facebook",
+    "bot",
+    "go",
+    "echo"
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/tmtk75/facebook-bot-echo",
+  "website": "http://github.com/tmtk75/facebook-bot-echo",
+  "repository": "http://github.com/tmtk75/facebook-bot-echo"
+}

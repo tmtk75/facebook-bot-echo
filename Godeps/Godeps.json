@@ -1,0 +1,9 @@
+{
+    "ImportPath": "github.com/tmtk75/facebook-bot-echo",
+    "GoVersion": "go1.6",
+    "Packages": [
+        "./..."
+    ],
+    "Deps": [
+    ]
+}
